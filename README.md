@@ -1,4 +1,4 @@
-# .format_f-string
+# .format e f-string
 Este código em Python demonstra várias maneiras de formatar strings, incluindo o uso do método .format() e f-strings. Vou comentar sobre cada parte do código:
 
 Você define quatro variáveis: nome, idade, profissao, e linguagem, cada uma com seu próprio valor.
