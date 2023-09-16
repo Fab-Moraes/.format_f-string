@@ -14,6 +14,17 @@ No terceiro exemplo, você utiliza f-strings (strings formatadas) começando com
 Em resumo, o código ilustra três maneiras diferentes de formatar strings em Python: o método .format(), a especificação de posições usando índices numéricos no método .format(), e o uso de f-strings para criar strings formatadas de forma mais simples e legível. Todas essas abordagens têm o mesmo resultado final, que é gerar uma saída formatada com os valores das variáveis inseridos na string.
 
 
+-> A última parte do código demonstra como usar f-strings para formatar números:
+
+PI = 3.14159 define a variável PI.
+
+print(f"Valor de PI: {PI:.2f}") imprime o valor de PI com duas casas decimais usando uma f-string.
+
+print(f"Valor de PI: {PI:10.2f}") imprime o valor de PI com duas casas decimais e preenchido com espaços à esquerda para ocupar um total de 10 caracteres.
+
+Em resumo, o código ilustra a formatação de strings em Python usando diferentes métodos: o método .format() e f-strings. Além disso, ele demonstra como formatar números usando f-strings com diferentes precisões e larguras de campo.
+
+
 
 
 
